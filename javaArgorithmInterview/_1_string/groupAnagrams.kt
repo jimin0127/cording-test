@@ -1,4 +1,4 @@
-package javaArgorithmInterview
+package javaArgorithmInterview._1_string
 
 fun groupAnagrams(strs: Array<String>): List<List<String>> {
     val results = mutableMapOf<String, MutableList<String>>()

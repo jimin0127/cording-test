@@ -1,4 +1,4 @@
-package javaArgorithmInterview
+package javaArgorithmInterview._1_string
 
 fun reverseString1(s: CharArray): CharArray {
     var start = 0

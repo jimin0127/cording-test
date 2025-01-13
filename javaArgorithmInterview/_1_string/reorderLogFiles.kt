@@ -1,4 +1,4 @@
-package javaArgorithmInterview
+package javaArgorithmInterview._1_string
 
 fun reorderLogFiels(logs: Array<String>): Array<String> {
     val letterList = mutableListOf<String>()

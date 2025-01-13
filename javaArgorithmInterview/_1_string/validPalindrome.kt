@@ -1,4 +1,4 @@
-package javaArgorithmInterview
+package javaArgorithmInterview._1_string
 
 fun isPalindrome(s: String): Boolean {
     var start = 0

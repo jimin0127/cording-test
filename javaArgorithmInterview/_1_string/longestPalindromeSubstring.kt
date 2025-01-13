@@ -1,4 +1,4 @@
-package javaArgorithmInterview
+package javaArgorithmInterview._1_string
 
 var left = 0
 var maxLen = 0

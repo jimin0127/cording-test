@@ -1,4 +1,4 @@
-package javaArgorithmInterview
+package javaArgorithmInterview._1_string
 
 fun mostCommonWord1(p: String, banned: Array<String>): String {
     val counts = mutableMapOf<String, Int>()
