@@ -1,5 +1,7 @@
 package javaArgorithmInterview._3_linked_list
 
+import javaArgorithmInterview.ListNode
+
 fun reverseLinkedList2(head: ListNode?, left: Int, right: Int): ListNode? {
     if (head == null) return null
 

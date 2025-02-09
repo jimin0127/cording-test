@@ -1,5 +1,7 @@
 package javaArgorithmInterview._3_linked_list
 
+import javaArgorithmInterview.ListNode
+
 fun oddEvenLinkedList(head: ListNode?): ListNode? {
     if (head == null) return null
 

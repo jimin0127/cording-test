@@ -1,5 +1,7 @@
 package javaArgorithmInterview._3_linked_list
 
+import javaArgorithmInterview.ListNode
+
 fun swapNodesInPairs(head: ListNode?): ListNode? {
     if (head?.next != null) {
         val p = head.next!!

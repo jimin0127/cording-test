@@ -1,5 +1,7 @@
 package javaArgorithmInterview._3_linked_list
 
+import javaArgorithmInterview.ListNode
+
 fun addTwoNumbers(l1: ListNode?, l2: ListNode?): ListNode? {
     var l1var = l1
     var l2var = l2

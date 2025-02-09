@@ -1,5 +1,6 @@
 package javaArgorithmInterview._3_linked_list
 
+import javaArgorithmInterview.ListNode
 import java.util.Deque
 import java.util.LinkedList
 

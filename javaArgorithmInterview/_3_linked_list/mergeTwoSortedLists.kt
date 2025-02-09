@@ -1,5 +1,7 @@
 package javaArgorithmInterview._3_linked_list
 
+import javaArgorithmInterview.ListNode
+
 fun mergeTwoSortedLists(list1: ListNode?, list2: ListNode?): ListNode? {
     if (list1 == null) return list2
     if (list2 == null) return list1

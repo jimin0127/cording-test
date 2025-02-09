@@ -1,4 +1,4 @@
-package javaArgorithmInterview._3_linked_list
+package javaArgorithmInterview
 
 /**
  * Example:

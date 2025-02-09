@@ -1,5 +1,7 @@
 package javaArgorithmInterview._3_linked_list
 
+import javaArgorithmInterview.ListNode
+
 fun reverseLinkedList(head: ListNode?): ListNode? {
     var prev: ListNode? = null
     var node = head
